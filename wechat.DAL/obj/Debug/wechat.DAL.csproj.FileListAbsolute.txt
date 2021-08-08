@@ -1,0 +1,9 @@
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.DAL\obj\Debug\wechat.DAL.csprojResolveAssemblyReference.cache
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.DAL\bin\Debug\wechat.DAL.dll
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.DAL\bin\Debug\wechat.DAL.pdb
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.DAL\bin\Debug\CSkin.dll
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.DAL\bin\Debug\Newtonsoft.Json.dll
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.DAL\bin\Debug\CSkin.xml
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.DAL\bin\Debug\Newtonsoft.Json.xml
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.DAL\obj\Debug\wechat.DAL.dll
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.DAL\obj\Debug\wechat.DAL.pdb

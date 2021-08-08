@@ -1,0 +1,17 @@
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\bin\Debug\WeAiChat.exe.config
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\obj\Debug\WeAiChat.csprojResolveAssemblyReference.cache
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\obj\Debug\WeAiChat.Properties.Resources.resources
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\obj\Debug\WeAiChat.csproj.GenerateResource.Cache
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\bin\Debug\WeAiChat.exe
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\bin\Debug\WeAiChat.pdb
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\bin\Debug\CSkin.dll
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\bin\Debug\Newtonsoft.Json.dll
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\bin\Debug\wechat.DAL.dll
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\bin\Debug\wechat.Model.dll
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\bin\Debug\wechat.DAL.pdb
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\bin\Debug\wechat.Model.pdb
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\bin\Debug\CSkin.xml
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\bin\Debug\Newtonsoft.Json.xml
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\obj\Debug\WeAiChat.Form1.resources
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\obj\Debug\WeAiChat.exe
+c:\users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\WeAiChat\obj\Debug\WeAiChat.pdb

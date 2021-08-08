@@ -1,0 +1,5 @@
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.Model\bin\Debug\wechat.Model.dll
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.Model\bin\Debug\wechat.Model.pdb
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.Model\obj\Debug\wechat.Model.dll
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.Model\obj\Debug\wechat.Model.pdb
+c:\Users\qinghua.he\documents\visual studio 2015\Projects\WeAiChat\wechat.Model\obj\Debug\wechat.Model.csprojResolveAssemblyReference.cache
